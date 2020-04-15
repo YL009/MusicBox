@@ -1,0 +1,4 @@
+<resources>
+    <string name="hello">Hello World, MusicBox!</string>
+    <string name="app_name">音乐盒</string>
+</resources>
